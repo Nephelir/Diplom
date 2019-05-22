@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="85">
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Actor-Mixer Hierarchy\AC_RG.wwu" DateLow="1558477093" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1551270120" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1541671061" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1541670257" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Actor-Mixer Hierarchy\Scripted Moments.wwu" DateLow="1549457898" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Attenuations\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Audio Devices\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Control Surface Sessions\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Conversion Settings\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1541670257" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Diplom.mitko.wsettings" DateLow="1558478051" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Diplom.wproj" DateLow="1557659082" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory Auro Headphone.wwu" DateLow="1541671263" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory Effects.wwu" DateLow="1541670257" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Box Modeler.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Delay.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Dynamics.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Filters.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1541671161" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Effects\Factory McDSP Effects.wwu" DateLow="1541671118" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Events\Default Work Unit.wwu" DateLow="1557958932" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Events\The Division2.wwu" DateLow="1557663821" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Game Parameters\Default Work Unit.wwu" DateLow="1547454563" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1541671061" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1547455346" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Mixing Sessions\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Modulators\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Presets\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Queries\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Queries\Factory Queries.wwu" DateLow="1541670257" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\SoundBanks\Default Work Unit.wwu" DateLow="1547454566" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\States\Default Work Unit.wwu" DateLow="1551267429" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\AC_RG.wwu" DateLow="1558015626" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Default Work Unit.wwu" DateLow="1557955700" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_Ambience.wwu" DateLow="1558021992" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_Foley.wwu" DateLow="1558014885" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_Foley_Cloth.wwu" DateLow="1558014882" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_Foley_Footsteps.wwu" DateLow="1558014883" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_Foley_Weapons.wwu" DateLow="1558014885" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Switches\Switch_SFX.wwu" DateLow="1558014907" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Triggers\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Virtual Acoustics\Default Work Unit.wwu" DateLow="1547454002" DateHigh="0"/>
+	<ValidationCacheItem File="I:\UBISOFT\Wwise Project\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1541671112" DateHigh="0"/>
+</ValidationCache>
